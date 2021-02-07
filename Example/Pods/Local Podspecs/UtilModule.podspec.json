@@ -1,0 +1,64 @@
+{
+  "name": "UtilModule",
+  "version": "0.1.0",
+  "summary": "基础公共模块",
+  "description": "TODO: 项目基础公共模块.原则上是所有项目都可以使用.",
+  "homepage": "https://github.com/weiza-paradise/UtilModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weiza": "ao_1026@126.com"
+  },
+  "source": {
+    "git": "https://github.com/weiza-paradise/UtilModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "UtilModule/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "RxSwift": [
+
+    ],
+    "RxCocoa": [
+
+    ],
+    "NSObject+Rx": [
+
+    ],
+    "RxDataSources": [
+
+    ],
+    "SwiftyUserDefaults": [
+
+    ],
+    "Toast-Swift": [
+
+    ],
+    "SnapKit": [
+
+    ],
+    "Kingfisher": [
+
+    ],
+    "EmptyDataSet-Swift": [
+
+    ],
+    "SwifterSwift": [
+
+    ],
+    "Result": [
+
+    ],
+    "Reusable": [
+
+    ],
+    "CryptoSwift": [
+
+    ]
+  }
+}
